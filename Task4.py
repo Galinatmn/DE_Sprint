@@ -16,5 +16,5 @@ def valid_brackets(string):
     return (not select_open)
 
 
-str = input('Ввод: x = ')
+str = input('ВВОД: x = ')
 print(valid_brackets(str))
